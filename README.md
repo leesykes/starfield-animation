@@ -23,7 +23,7 @@ A mesmerizing JavaScript animation that creates the illusion of flying through s
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/starfield-animation.git
+    git clone https://github.com/leesykes/starfield-animation
     ```
 
 2. Open `index.html` in your web browser
@@ -136,5 +136,5 @@ A: Ensure your HTML contains a canvas element with id="starfield"
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)  
-Project Link: [https://github.com/yourusername/starfield-animation](https://github.com/yourusername/starfield-animation)
+Lee Sykes - [@gargleb](https://twitter.com/gargleb)  
+Project Link: [https://github.com/leesykes/starfield-animation](https://github.com/leesykes/starfield-animation)
