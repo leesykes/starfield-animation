@@ -16,7 +16,7 @@ A mesmerizing JavaScript animation that creates the illusion of flying through s
 
 ## Live Demo
 
-[View Live Demo](https://your-demo-url-here.com)
+[View Live Demo](https://leesykes.github.io/starfield-animation/)
 
 ## Installation
 
