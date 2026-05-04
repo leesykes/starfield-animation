@@ -115,7 +115,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Future Improvements
 
 - [ ] Add color options for stars
-- [ ] Implement mouse/touch interaction
+- [ ] Implement mouse/touch interaction configuration 
 - [ ] Add configuration UI
 - [ ] Add star trails effect
 - [ ] Support for different star shapes
